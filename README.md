@@ -11,5 +11,8 @@
 ### 3. Cheat Mode
 ![image](https://raw.githubusercontent.com/slf70502991/C-treasure-hunt/main/img/cheat.png)
 
-### 4. All treaures are dug
+### 4. All treasures are dug
 ![image](https://raw.githubusercontent.com/slf70502991/C-treasure-hunt/main/img/cheat%20mode%202.png)
+
+## Compile
+gcc a01.c -g -o as01 -Wall -pedantic -ansi
