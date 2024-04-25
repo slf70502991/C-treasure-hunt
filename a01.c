@@ -1,17 +1,4 @@
 
-/***********************************************************
- * FIlename: a01.c
- * Version: 3
- * Student Name: YENLING LIN
- * Student Number: 041107273
- * Course Name: CST8234_302 C Language
- * Lab Section: 302
- * Assignment Number: Lab3
- * Professor: Shavit Lupo
- * Purpose: Reveive the inputs to create an array and implements some changes on the array or simply print out the array.
- * Due Date: 14, Mar, 2024
- * Submission Date: 14, Mar, 2024
-************************************************************/ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
