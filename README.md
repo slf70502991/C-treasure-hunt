@@ -4,4 +4,4 @@
 ## Gameplay
 
 ### Step 1: Set up the map
-![image]
+![image](https://raw.githubusercontent.com/slf70502991/C-treasure-hunt/main/img/Set%20up%20the%20map.png)
