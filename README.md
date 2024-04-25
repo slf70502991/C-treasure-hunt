@@ -9,7 +9,7 @@
 ![image](https://raw.githubusercontent.com/slf70502991/C-treasure-hunt/main/img/Menu%20and%20dig.png)
 
 ### 3. Cheat Mode
-![image}(https://raw.githubusercontent.com/slf70502991/C-treasure-hunt/main/img/cheat.png)
+![image](https://raw.githubusercontent.com/slf70502991/C-treasure-hunt/main/img/cheat.png)
 
 ### 4. All treaures are dug
 ![image](https://raw.githubusercontent.com/slf70502991/C-treasure-hunt/main/img/cheat%20mode%202.png)
